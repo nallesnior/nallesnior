@@ -1,1 +1,1 @@
-![](github_metrics.svg)
+![](./github-metrics.svg)
